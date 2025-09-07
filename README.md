@@ -1,6 +1,8 @@
 # Responsive Sidebar Project
 
-This project is a solution to a "Sr. UI Developer" assignment to build and integrate a responsive sidebar into a web page. 
+This project is a solution to a "Sr. UI Developer" assignment to build and integrate a responsive sidebar into a web page.
+
+Live demo link - https://responsive-sidebar-ui.netlify.app/
 
 ## Features
 
